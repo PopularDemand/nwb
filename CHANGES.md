@@ -50,7 +50,6 @@
 - mocha: v3.0.2 → [v3.1.2](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md#312--2016-10-10)
 - phantomjs-prebuilt: v2.1.12 → [v2.1.13](https://github.com/Medium/phantomjs/releases/tag/2.1.13)
 - postcss-loader: v0.10.0 → [v1.0.0](https://github.com/postcss/postcss-loader/blob/master/CHANGELOG.md#10)
-- qs: v6.2.1 → [v6.3.0](https://github.com/ljharb/qs/blob/master/CHANGELOG.md#630)
 - webpack: v1.13.1 → [v1.13.2](https://github.com/webpack/webpack/compare/v1.13.1...v1.13.2) - updated node-libs-browser
 - webpack-merge: v0.14.1 → [v0.15.0](https://github.com/survivejs/webpack-merge/blob/master/CHANGELOG.md#0150--2016-10-18)
 - webpack-dev-middleware: v1.6.1 → [v1.8.4](https://github.com/webpack/webpack-dev-middleware/blob/master/CHANGELOG.md#184-2016-10-08)
